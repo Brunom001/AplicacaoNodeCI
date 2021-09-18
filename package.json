@@ -1,0 +1,24 @@
+{
+  "name": "appnode",
+  "version": "1.0.0",
+  "description": "Aplicativo da aula Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo Error: no test specified && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brunom001/AplicacaoNodeCI.git"
+  },
+  "keywords": [
+    "Aplicacao",
+    "aula",
+    "teste"
+  ],
+  "author": "bruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brunom001/AplicacaoNodeCI/issues"
+  },
+  "homepage": "https://github.com/Brunom001/AplicacaoNodeCI#readme"
+}
