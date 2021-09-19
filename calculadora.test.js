@@ -7,7 +7,7 @@ test("Testando  soma de 1 + 1", () => {
 })
 
 test("Testando  subtração de 2 - 1", () => {
-    expect(calculadora.subtracao(3,1)).toBe(2);
+    expect(calculadora.subtracao(4,1)).toBe(3);
 })
 
 test("Testando  divisao de 42 / 6", () => {
