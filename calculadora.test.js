@@ -11,6 +11,6 @@ test("Testando  subtração de 2 - 1", () => {
 })
 
 test("Testando  divisao de 42 / 6", () => {
-    expect(calculadora.divisao(42,6)).toBe(9);
+    expect(calculadora.divisao(42,6)).toBe(7);
 })
 
